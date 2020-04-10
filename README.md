@@ -1,4 +1,5 @@
 # deep_learning
+Using my knowledge of machine learning and neural network model building, I created a binary classifier that is capable of predicting whether or not an applicant will be successful if funded by Alphabet Soup using the features collected in the provided dataset.
 
 I tried to implement a neural network to solve a classification problem
 After trying out several methods, the best score I managed to achieve was 73
