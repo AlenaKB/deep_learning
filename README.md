@@ -21,6 +21,7 @@ The goals were to:
 - Import, analyze, clean, and preprocess a “real-world” classification dataset
 - Select, design, and train a binary classification model of choice
 - Optimize model training and input data to achieve desired model performance
+
 After several attempts to increase the effectiveness of the model, the highest accuracy I've managed to achieve was 73%. 
 
 
