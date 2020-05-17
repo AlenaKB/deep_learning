@@ -1,15 +1,26 @@
-# deep_learning
+# Investment Analysis with Deep Learning 
+
+## Project Objective:
 Using my knowledge of machine learning and neural network model building, I created a binary classifier that is capable of predicting whether or not an applicant will be successful if funded by Alphabet Soup using the features collected in the provided dataset.
 
-I tried to implement a neural network to solve a classification problem
-After trying out several methods, the best score I managed to achieve was 73
+### Methods Used:
+- Neural Networks
+- Deep Learning 
+- Machine Lerarning 
+- Inferential Statistics 
+- Predictive Modeling 
 
-To increase the effectiveness of the model I attempted to look for potential outliers in the dataset. 
-I found a algorithm called Isolation Forest that shows specifically outliers, because the 'ASK_AMT' column seemed suspicious
-and I felt I need to check it. 
-the algorithm showed I have over 5 thousand outliers there. Due to the lack of knowledge of the algorithm and its implementation, I decided to leave that idea for now. Although, if I did everythig correctly, 5k outliers is a lot and possibly that is the reason why my neural network just wasn't effective at all. 
-Other than that, I tried several different ways of bucketing and received a somewhat similar score everytime. 
+### Technologies:
+- Python 3.0
+- TensorFlow
+- Keras 
 
-After tweaking the number of layers, and neurons, and the activation functions themselves (I deleted a couple, because that was getting ridiculous) I decided to try out a supervised learning algorithm, because in the end if the day we are dealing with classification here. 
-The best result I managed to achieve after all, remained 73. 
+## Project Description:
+In this project I've built a machine learning model that will be able to predict the success of a venture paid by Alphabet soup. The trained model will be used to determine the future decisions of the company — only those projects likely to be a success will receive any future funding from Alphabet Soup. 
+The goals were to:
+- Import, analyze, clean, and preprocess a “real-world” classification dataset
+- Select, design, and train a binary classification model of choice
+- Optimize model training and input data to achieve desired model performance
+After several attempts to increase the effectiveness of the model, the highest accuracy I've managed to achieve was 73%. 
+
 
